@@ -1,0 +1,3 @@
+ mix new drone_app --sup
+
+ 
